@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "modelo1",
+    "owner": "noe arcos",
+    "description": "modulo de autenticación web para comercio de carrito de compras",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "juanito ",
+    "threatTop": 0
+  }
+}
